@@ -11,7 +11,7 @@ class Cat {
 }
 
 class Dog {
-  onstructor(name, sex) {
+  constructor(name, sex) {
     this.name = name
     this.sex = sex
   }
