@@ -31,6 +31,6 @@ class Bird {
   }
 
   speak(){
-    
+
   }
 }
