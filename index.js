@@ -1,11 +1,11 @@
 // Your code here
 class Cat {
-  constructor(dong, sex) {
-    this.dong = dong
+  constructor(name, sex) {
+    this.name = name
     this.sex = sex
   }
   speak() {
-    return `${dong} says meow!`
+    return `${this.name} says meow!`
   }
 
 }
